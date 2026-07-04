@@ -818,7 +818,7 @@ Special thanks to the open-source community and the technologies that made HELIX
 
 # License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ---
 
